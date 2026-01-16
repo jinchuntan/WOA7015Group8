@@ -4,6 +4,13 @@
 This project trains a ResNet50 + BiLSTM baseline for Medical Visual Question Answering (Med-VQA) and compares it against BLIP-VQA (zero-shot) on the VQA-RAD dataset. It also includes optional BLIP fine-tuning using LoRA adapters.
 
 ## Installation
+Make sure the environment has been setup. If not, use the command below
+
+```bash
+py -m venv .venv
+.\.venv\Scripts\activate
+python -m pip install --upgrade pip
+```
 
 Use `pip` to install the dependencies.
 
@@ -124,3 +131,4 @@ python -m src.make_plots --train_history outputs/baseline/train_history.json --b
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
