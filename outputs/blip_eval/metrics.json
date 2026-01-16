@@ -1,0 +1,23 @@
+{
+  "closed_accuracy": 0.5697211155378487,
+  "closed_precision_yes": 0.5290697674418605,
+  "closed_recall_yes": 0.7711864406779662,
+  "closed_f1_yes": 0.6275862068965516,
+  "closed_confusion_matrix": [
+    [
+      52,
+      81
+    ],
+    [
+      27,
+      91
+    ]
+  ],
+  "open_exact_match": 0.11764705882352941,
+  "open_token_f1": 0.14656862745098043,
+  "open_rougeL_f1": 0.14656862745098043,
+  "overall_exact_match": 0.47335423197492166,
+  "n_total": 319,
+  "n_closed": 251,
+  "n_open": 68
+}

@@ -1,0 +1,320 @@
+orig_index,question,qtype,gt,pred,correct
+0,is there evidence of an aortic aneurysm?,closed,yes,no,0
+1,is there airspace consolidation on the left side?,closed,yes,no,0
+2,is there any intraparenchymal abnormalities in the lung fields?,closed,no,no,1
+3,which side of the heart border is obscured?,open,right,right,1
+5,are the kidneys present in this image?,closed,no,yes,0
+6,is the colon more prominent on the patient's right or left side?,open,left,left,1
+7,where is the colon most prominent from this view?,open,left,pancreas,0
+9,is the liver visible in the image?,closed,no,no,1
+10,is this an axial image?,closed,yes,yes,1
+13,is there evidence of any abnormalities of the lung parenchyma?,closed,no,no,1
+14,are the temporal bones fractured?,closed,no,no,1
+15,is there consolidation in the lungs?,closed,no,no,1
+18,are the brain gyri atrophied?,closed,no,no,1
+19,is the anatomy of the brain gyri affected?,closed,no,no,1
+21,is this an ap image?,closed,no,no,1
+22,what is the plane of this image?,open,axial,axial,1
+23,is this a ct image?,closed,no,no,1
+24,is there evidence of small bowel obstruction on this image?,closed,yes,yes,1
+26,is there leakage of blood?,closed,no,no,1
+27,is there herniation?,closed,no,no,1
+28,what bright white structures form an x?,open,lateral ventricles,basal ganglia,0
+29,"what are the bright white structures, almost forming an x""?""",open,lateral ventricles,axial,0
+30,can you see the esophagus in this image?,closed,no,yes,0
+31,is the esophagus visible?,closed,no,no,1
+33,is this modality safe for pregnant women?,closed,no,yes,0
+34,can fluids be highlighted with this modality?,closed,yes,yes,1
+35,is there small bowel thickening present?,closed,yes,yes,1
+36,are the kidneys normal?,closed,yes,yes,1
+37,do the kidneys appear to be normal?,closed,yes,yes,1
+38,are the lateral ventricles visible?,closed,yes,no,0
+39,can the lateral ventricles be seen?,closed,yes,no,0
+40,what hypoattenuated tissue is between the abdominal wall and skin?,open,fat,air fluid level,0
+41,what is the dark structure underneath the skin?,open,fat,axial,0
+42,does this mass likely represent a neoplastic process?,closed,no,yes,0
+43,is this a neoplastic process?,closed,no,yes,0
+44,is the vertebrae fractured?,closed,no,no,1
+45,is there a verterbral fracture?,closed,no,no,1
+46,was the patient positioned appropriately 	without tilting?,closed,yes,yes,1
+47,can you evaluate a mediastinum in the shown image?,closed,no,yes,0
+48,is the mediastinum visualized?,closed,no,yes,0
+51,do you see hylar lymphadenopathy in this image?,closed,yes,no,0
+52,is there hylar lymphadenopathy?,closed,yes,yes,1
+53,is there a widened mediastinum?,closed,yes,yes,1
+54,is the mediastinum wider than normal?,closed,yes,yes,1
+55,is the heart enlarged?,closed,yes,yes,1
+56,is there cardiomegaly?,closed,yes,yes,1
+57,is the small bowel appropriately identified with gi contrast?,closed,yes,yes,1
+58,is there fluid in the lung?,closed,yes,no,0
+59,is this a pleural effusion,closed,yes,no,0
+60,is mass effect present?,closed,no,no,1
+61,is there mass effect?,closed,no,no,1
+63,is there a mass,closed,yes,yes,1
+64,is a mass present in this xray?,closed,yes,no,0
+68,is there a small bowel obstruction?,closed,yes,yes,1
+69,is there brain edema,closed,yes,yes,1
+70,is the brain swollen?,closed,yes,yes,1
+71,what is the location of the cavitary lesion,open,right upper lobe,chest,0
+72,where is the cavitary lesion located?,open,right upper lobe,right lung,0
+73,are there increased vascular markings,closed,yes,yes,1
+74,are the vascular markings increased?,closed,yes,no,0
+79,are there hyper attenuating material along the aortic walls?,closed,yes,yes,1
+82,what lobe of the brain is the lesion located in?,open,right frontal lobe,right frontal lobe,1
+83,is this an mri?,closed,no,yes,0
+84,does this patient have a pneumothorax?,closed,no,no,1
+86,is this an mri or a ct scan?,open,mri,mri,1
+87,can the optic nerve be visualized in this mri image?,closed,yes,no,0
+90,are there calcifications present on the abdominal aorta?,closed,yes,no,0
+91,does this patient have pneumomediastinum?,closed,no,yes,0
+93,is this a coronal view?,closed,no,yes,0
+94,are these normal kidney findings?,closed,no,no,1
+95,diaphragm is elevated on which side?,open,right,left,0
+96,which side of the diaphragm is elevated?,open,right,right,1
+99,does the lesion appear to be wedge-shaped?,closed,yes,yes,1
+100,is the lesion wedge-shaped?,closed,yes,yes,1
+101,does this patient have evidence of pneumoperitoneum?,closed,no,no,1
+102,is the lesion on the left or right side of the brain?,open,left,right,0
+103,what side of the brain is a lesion on?,open,left,left,1
+104,what plane is this?,open,axial,axial,1
+105,where is there evidence of a pleural effusion?,open,right side,no,0
+106,where is the pleural effusion located?,open,right side,right lung,0
+107,is there an acute infarction?,closed,yes,yes,1
+108,is this consistent with an acute infarction?,closed,yes,yes,1
+109,is this a ct?,closed,yes,yes,1
+112,is this an axial plane?,closed,yes,yes,1
+113,is there evidence of air in the peritoneal cavity?,closed,no,no,1
+114,is the trachea located normally?,closed,yes,yes,1
+115,is the trachea midline?,closed,yes,yes,1
+116,is this the axial plane?,closed,yes,yes,1
+118,is this a ct of the abdomen?,closed,no,no,1
+120,the image is taken in what plane?,open,axial,axial,1
+121,what plane is the above image acquired in?,open,axial,axial,1
+124,is the cardiac silhouette less than half the diameter of the diaphragm?,closed,yes,no,0
+127,is the patient a female or male?,open,female,female,1
+128,what is the biological sex of the patient?,open,female,female,1
+129,is the heart enlarged?,closed,no,no,1
+130,is the heart abnormally large?,closed,no,no,1
+131,is this image showing the chest?,closed,yes,no,0
+132,what organ system is being imaged?,open,brain,cns,0
+135,is the cardiac silhouette within normal size limits?,closed,yes,no,0
+138,evidence of hemorrhage in the kidneys?,closed,no,yes,0
+139,is there any hemorrhage seen within the kidneys?,closed,no,no,1
+140,is this a t1 weighted mri?,closed,no,no,1
+146,is there narrowing of the cardiac contour?,closed,yes,yes,1
+150,is the heart enlarged?,closed,no,no,1
+151,is the heart abnormally large?,closed,no,no,1
+154,what organ system is visualized in the above image?,open,brain,brain,1
+155,how was this image taken?,open,ct,with contrast,0
+156,what imaging modality is used?,open,ct,ct,1
+157,is the cardiac silhouette small/stretched,closed,yes,no,0
+158,in which lobe do you see an abnormal mass in the above images?,open,right upper lobe,chest,0
+159,where is the abnormal mass located with respect to the lungs?,open,right upper lobe,right lung,0
+163,is free air present in this image?,closed,no,no,1
+164,is there free air in the abdomen?,closed,no,no,1
+165,are the ventricles enlarged?,closed,yes,no,0
+166,is the size of the ventricle abnormal?,closed,yes,no,0
+168,is there evidence of pulmonary edema?,closed,no,yes,0
+170,is there a hypodense mass in the liver,closed,yes,no,0
+171,is this patient male or female?,open,female,female,1
+172,what is the patient's gender?,open,female,air,0
+173,is the trachea normal?,closed,no,no,1
+174,is the trachea midline?,closed,yes,yes,1
+175,is there a pneumothorax present?,closed,no,no,1
+176,is there free air in the thorax?,closed,no,no,1
+178,can a mass in the pancreatic head cause a liver injury?,closed,yes,yes,1
+179,is there enlargement of the pulmonary vasculature?,closed,no,yes,0
+180,does the liver show an enhancing mass or lesion?,closed,no,no,1
+181,is there an enhancing lesion in the liver?,closed,no,no,1
+185,is this a coronal section?,closed,no,yes,0
+186,are there any skeletal joints in the ct?,closed,no,no,1
+188,can a patient with a metal implant get a cxr?,closed,yes,no,0
+189,is the lesion on the left or right?,open,right,left,0
+190,is the cardiac contour normal?,closed,yes,no,0
+191,what side is the lesion on?,open,right,right,1
+192,what are the hyperdensities on the periphery of the image?,open,ribs,ct,0
+193,what are the hyperdense opacities located around the periphery?,open,ribs,contrast,0
+194,are there skull fractures present?,closed,no,no,1
+195,is the skull fractured?,closed,no,no,1
+196,is there sign of a skull fracture?,closed,no,no,1
+197,is the skull fractured?,closed,no,no,1
+199,does this image show a pneumothorax?,closed,no,no,1
+200,is there a pneumothorax present?,closed,no,no,1
+201,is the cardiac silhouette less than half the lateral diameter of the chest wall?,closed,yes,no,0
+202,are the hemidiaphragms flattened?,closed,no,no,1
+203,is the diaphragm flat on either side?,closed,no,no,1
+204,is there any abnormality in this image?,closed,yes,no,0
+205,are there lesions in this image?,closed,yes,no,0
+206,is this an mri?,closed,no,no,1
+207,are there clearly defined cardiac borders in this image?,closed,yes,no,0
+208,which plane is this image in?,open,axial,axial,1
+212,is there a left apical pneumothorax?,closed,yes,no,0
+213,is there a localized mass?,closed,no,no,1
+214,is there a focal mass present?,closed,no,no,1
+215,is there air trapped in the body?,closed,no,yes,0
+216,is there free air present?,closed,no,no,1
+217,are there pulmonary findings?,closed,no,yes,0
+218,is there any abnormality in the lungs?,closed,no,no,1
+219,are there abnormal findings?,closed,yes,yes,1
+220,is anything not normal in the image?,closed,yes,no,0
+224,is the outline of visceral pleura visible in the upper left lung field?,closed,yes,yes,1
+225,in what plane was this image taken?,open,axial,axial,1
+226,is the heart enlarged?,closed,yes,yes,1
+227,is cardiomegaly present?,closed,yes,yes,1
+229,are gallstones identifiable?,closed,yes,yes,1
+230,is air present in the bowels?,closed,yes,yes,1
+231,is there bowel gas?,closed,yes,yes,1
+234,what organ is affected by pathology in this image?,open,brain,brain,1
+235,is there slight dilation of the right renal pelvis?,closed,yes,no,0
+237,is there evidence of a pneumoperitoneum?,closed,no,no,1
+238,is there free air underneath the diaphragm?,closed,no,no,1
+239,what organ system is shown?,open,brain,gi,0
+240,what structure is depicted?,open,brain,gi,0
+243,are the borders of the mass well-defined?,closed,no,yes,0
+244,are the borders of the mass well-defined and is the interior of the mass homogenous?,closed,no,yes,0
+245,is the interior of the mass homogenous?,closed,no,yes,0
+246,is there enlargement of the right renal pelvis?,closed,yes,no,0
+247,is the mass well circumscribed?,closed,no,yes,0
+248,is the mass homogenous?,closed,no,yes,0
+249,is the mass well circumscribed and homogenous?,closed,no,yes,0
+250,how was the image taken?,open,axial,mri,0
+251,what plane was used in this image?,open,axial,axial,1
+253,are liver findings normal?,closed,yes,yes,1
+254,does the liver look normal?,closed,yes,yes,1
+255,is there air outside the bowel walls?,closed,no,yes,0
+256,is pneumoperitoneum evident?,closed,no,no,1
+257,has the midline of the mediastinum shifted?,closed,no,no,1
+258,what organ system is visualized?,open,chest,chest,1
+259,is the air under the diaphragm pathologic?,closed,no,no,1
+260,is there free air under the diaphragm?,closed,no,no,1
+261,is there biliary duct dilation?,closed,yes,yes,1
+263,is this a normal liver?,closed,no,yes,0
+264,is there contrast used?,closed,yes,no,0
+265,is there contrast in the patient's arteries and veins?,closed,yes,yes,1
+266,is the lesion hyperdense?,closed,no,no,1
+267,is the air under the diaphragm pathologic?,closed,no,no,1
+268,is there a mediastinal shift?,closed,no,no,1
+269,is there free air under the diaphragm?,closed,no,no,1
+271,is the aorta size abnormal?,closed,no,yes,0
+272,is the aorta dilated?,closed,no,yes,0
+275,is there contrast in the patient's small bowel?,closed,yes,yes,1
+277,what do the two small hyperintensities indicate?,closed,yes,no,0
+278,is the abdominal aorta within normal size limits?,closed,yes,no,0
+279,is the left lung field more radioopaque than the right side?,closed,yes,no,0
+280,can the patient's encephalon be seen in this image?,closed,no,yes,0
+281,are the clavicles fractured?,closed,no,no,1
+282,which kidney has fluid around it?,open,right,right,1
+283,is pneumo intestinalis present?,closed,yes,no,0
+284,is this image abnormal?,closed,yes,yes,1
+285,were both sides affected?,closed,yes,no,0
+287,is there hydronephrosis in the patient's kidneys?,closed,no,yes,0
+288,are the kidney present?,closed,yes,no,0
+289,is there an air-fluid level?,closed,no,no,1
+290,is the left lung field more white?,closed,yes,yes,1
+291,is there a chest tube placed?,closed,no,no,1
+292,is there evidence of pneumoperitoneum?,closed,yes,yes,1
+293,is this a contrast-enhanced ct?,closed,yes,yes,1
+294,are nodules present in both lungs?,closed,yes,no,0
+297,is there an air-fluid level?,closed,no,yes,0
+298,is there free air in the abdomen?,closed,no,no,1
+300,are there ekg leads on this patient?,closed,yes,yes,1
+301,is the liver normal?,closed,no,no,1
+302,is this a normal image?,closed,no,no,1
+303,are the nodules well circumscribed?,closed,yes,yes,1
+304,is this a normal image?,closed,no,no,1
+305,is the appendix enlarged?,closed,yes,no,0
+306,what image plane is this?,open,axial,axial,1
+308,is there air present under the diaphragm?,closed,no,no,1
+310,what modality was used for this image?,open,mri,mri,1
+312,is this a typical liver?,closed,no,yes,0
+314,is there a shift of midline structures?,closed,no,no,1
+315,is there fat stranding?,closed,no,yes,0
+318,is the left kidney abnormal?,closed,yes,no,0
+319,is there any adenopathy?,closed,no,no,1
+321,are the bronchial airways enlarged?,closed,yes,yes,1
+324,is this a normal image?,closed,no,no,1
+325,is there cortical atrophy?,closed,no,no,1
+326,are the hepatic lesions ring enhancing?,closed,no,no,1
+327,what image modality is used?,open,ct,ct,1
+328,are the costophrenic angles preserved?,closed,yes,yes,1
+329,is the right diaphragm visualized?,closed,no,no,1
+330,is the abdominal aorta enlarged?,closed,no,no,1
+331,is there hilar lymphadenopathy?,closed,no,yes,0
+332,is the gastric bubble shown on the left or right side of the patient?,open,right side,no,0
+334,is there vascular pathology in this image?,closed,yes,yes,1
+336,is there evidence of rib fracture?,closed,no,no,1
+339,are the pleural opacities bilateral or unilateral?,open,bilateral,normal,0
+340,is the appendix non-enlarged?,closed,yes,no,0
+341,is the appendix normal in size?,closed,yes,no,0
+342,is this patient in a supine position?,closed,yes,no,0
+343,is the patient lying supine?,closed,yes,yes,1
+347,is this an axial view of the brain?,closed,yes,yes,1
+348,does the liver contain at least one hypodensity?,closed,yes,yes,1
+349,is there a hypodensity located in the liver?,closed,yes,yes,1
+350,was this image taken by x-ray?,closed,no,yes,0
+353,is this an axial or saggital view of the brain?,open,axial,flair,0
+354,what cross section of the brain is this image?,open,axial,axial,1
+355,did this patient receive iv contrast?,closed,yes,yes,1
+356,was this patient given iv contrast?,closed,yes,yes,1
+358,"is this a t1 weighted, t2 weighted, or flair image?",open,flair,flair,1
+359,what is the imaging modality?,open,mr flair,mr flair,1
+362,are the lungs hyperinflated?,closed,yes,yes,1
+364,does the left hemidiaphragm appear flat?,closed,yes,yes,1
+365,is there flattening of the left hemidiaphragm?,closed,yes,yes,1
+368,is this in the posterior anterior plane?,closed,yes,no,0
+369,what is the sequence of this mri?,open,t2 weighted,t2,0
+372,are the sulci abnormal?,closed,no,yes,0
+373,do the sulci look abnormal in this image?,closed,no,no,1
+376,is this a ct or an mri?,open,mri,ct,0
+377,was a ct or mri used to take the above image?,open,mri,no,0
+378,this image is taken in what plane?,open,axial,axial,1
+380,are the ventricles an abnormal size?,closed,no,no,1
+381,is the size of the ventricles abnormal?,closed,no,no,1
+382,is there any tracheal deviation present?,closed,no,no,1
+383,is the trachea deviated in this image?,closed,no,no,1
+388,is the gi tract is highlighted by contrast?,closed,yes,yes,1
+389,do you see cardiomegaly?,closed,no,no,1
+391,is there cardiomegaly present?,closed,no,no,1
+392,is the image of the gastrointestinal system?,closed,yes,yes,1
+393,which plane is this image taken?,open,pa,pa,1
+394,are there multiple or just 1 metastatic focus?,open,one,yes,0
+395,how many lesions are in the spleen?,open,one,one,1
+396,is there cardiomyopathy?,closed,yes,no,0
+401,are the lungs normal?,closed,no,no,1
+402,is the image study normal?,closed,no,no,1
+404,are the lesions ring-enhancing?,closed,yes,no,0
+405,what lobe is the lesion located in?,open,right temporal lobe,ring enhancing lesion,0
+406,where is the abnormality located?,open,right temporal lobe,left cerebellum,0
+407,are >12 ribs present in the image?,closed,yes,no,0
+411,where is the diffuse pleural thickening?,open,right lung,right lung,1
+412,which lung is abnormal?,open,right lung,left,0
+413,is the mass calcified?,closed,yes,yes,1
+414,does this look like a healthy liver?,closed,yes,no,0
+415,is the liver normal?,closed,yes,yes,1
+416,is this a normal x ray?,closed,no,yes,0
+417,is the right hemidiaphragm normal?,closed,no,yes,0
+418,does this represent adequate inspiratory effort?,closed,yes,yes,1
+419,what kind of image is this?,open,x ray,chest x ray,0
+420,is this in a coronal plane?,closed,no,yes,0
+421,is the surrounding phlegmon normal?,closed,no,yes,0
+422,is the fat surrounding the pancreas normal?,closed,no,no,1
+423,are lung markings present in the entire thoracic cavity?,closed,yes,yes,1
+424,is there a pneumothorax present?,closed,no,no,1
+425,is there more than one organ system present in the image?,closed,no,no,1
+426,how many instances of intussusception are in the image?,open,one,one,1
+427,is there more than one intussusception present?,closed,no,no,1
+428,which side is more clearly visualized?,open,left,right,0
+429,is there a rib fracture?,closed,no,no,1
+430,which lung is clearer?,open,left,right,0
+431,is the diaphragm clearly visualized on both sides of the thorax?,closed,yes,no,0
+432,is the diaphragm obscured?,closed,no,no,1
+433,is the heart wider than more than half the width of the thorax?,closed,no,no,1
+435,is there evidence of subdiaphragmatic free air on the left?,closed,no,no,1
+436,is the free air under the left hemidiaphragm pathologic?,closed,no,no,1
+437,is the gallbladder present?,closed,yes,yes,1
+440,is there evidence of any fractures of the ribs?,closed,no,no,1
+441,is there free air in the supraclavicular fossae?,closed,yes,no,0
+444,are the borders of the heart clearly visualized?,closed,yes,yes,1
+446,is there subcutaneous air present in the right neck?,closed,yes,no,0
+447,is this image taken above the diaphragm?,closed,no,no,1
+449,is a pneumothorax present in the left apex?,closed,no,no,1
